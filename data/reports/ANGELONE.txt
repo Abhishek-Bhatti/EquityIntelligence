@@ -1,0 +1,68 @@
+==========================================================================================
+EQUITY RESEARCH DOSSIER: ANGELONE
+Generated: 2026-07-08 13:57:12
+==========================================================================================
+
+INVESTMENT SCORE: 85/100 - Buy, driven by strong growth prospects, operating leverage, and a successful integration of AI; however, risks such as regulatory changes and geopolitical events exist. Revenue growth and margin expansion are key positives, with a proposed capital infusion of up to 1.5 billion each into wealth management and NBFC platform.
+
+------------------------------------------------------------------------------------------
+FINANCIALS
+------------------------------------------------------------------------------------------
+### Financial Trajectory
+* Q: APR_2026 - Revenue: Merged revenue data with exact figures preserved; EBITDA: reported EBDAT margin expanded by 227 basis points sequentially to 41.7%; normalized EBDAT margin improved by 498 basis points sequentially to 44.4%; Guided for a 40% margin at exit rate on the broking business; management expects further margin expansion due to operating leverage and efficiencies; Capex: proposed a capital infusion of up to 1.5 billion each into our wealth management business and our NBFC platform; Overall spend during the IPL season will be about 1.5 billion.
+* Q: JAN_2026 - Revenue: Merged revenue data with exact figures preserved; EBITDA: stand-alone operating margin is already at a hefty 43%; stand-alone EBITDA margin, comprising broking and distribution improved to 43% this quarter; reported EBDAT margin expanded to 39.4% in quarter three FY 2026, a sequential improvement of 489 basis points; operating margin of about 45%, 40-45% for the broking business; guidance on the margin of that 40-45% on the stand-alone basis; Capex: Merged capex data with exact figures preserved.
+* Q: OCT_2025 - Revenue: 6.8 - 6.9 million orders per day by fourth quarter; price change is expected to have about 50 to 60 crores upside on a net basis on a yearly basis at current run rate; broking business itself is going to grow at almost 25%, 30% long term; newer businesses (distribution, wealth, asset management) should contribute double digit to top line between 3 to 5 years; EBITDA: exit OPM guidance of 40% to 45%; looking to exit at 40 - 45% OPM; reported EBDAT margin at 34.5% is higher by 1,270 basis points over Q1 FY '26; Capex: Angel One will hold a 26% stake in this 4 billion joint venture, subject to regulatory approvals; will set up a branch in GIFT City.
+
+Referenced chunks: ANGELONE_CONCALL_APR_2026_000, ANGELONE_CONCALL_JAN_2026_000, ANGELONE_CONCALL_OCT_2025_000
+
+------------------------------------------------------------------------------------------
+COMPANY MOATS
+------------------------------------------------------------------------------------------
+### Structural Competitive Moats
+* Strong brand presence and customer base, with a successful integration of AI to drive efficiency and engagement.
+
+Referenced chunks: ANGELONE_CONCALL_OCT_2025_002, ANGELONE_CONCALL_JAN_2026_006
+
+------------------------------------------------------------------------------------------
+MANAGEMENT SENTIMENT
+------------------------------------------------------------------------------------------
+### Tone Progression
+* Bullish sentiment across quarters with a focus on long-term opportunities, customer acquisition, and expanding assisted channels; confidence in operating leverage and margin expansion.
+
+Referenced chunks: ANGELONE_CONCALL_JAN_2026_001, ANGELONE_CONCALL_JAN_2026_005, ANGELONE_CONCALL_OCT_2025_001
+
+------------------------------------------------------------------------------------------
+PROMISE MATRIX
+------------------------------------------------------------------------------------------
+| Quarter | Management Promise | Realized Outcome |
+|---|---|---|
+| APR_2026 | "As we look ahead, we believe Angel One is well positioned to participate at scale in the next phase of growth in India's financial service market, driven by broader participation and deeper engagement." | Pending |
+| APR_2026 | "we expect gradual normalization as capital market issuance activity and credit demand strengthen." | Pending |
+| APR_2026 | "client funding and treasury income will continue to remain important contributors to the overall revenue mix over the medium term." | Pending |
+| APR_2026 | "the company has proposed a capital infusion of up to 1.5 billion each into our wealth management business and our NBFC platform, which will enable us to scale these businesses meaningfully and further diversify growth engines over the medium term." | 1.5 billion |
+| JAN_2026 | "We expect further operating leverage as we continue to acquire new customers and deepen engagement by offering more products to our existing customer base." | Pending |
+| JAN_2026 | "We will continue to scale with discipline, but our strategic intent is clear: To build one of the most trusted high-performance credit platforms in the country with strong unit economics and defensible differentiation." | Pending |
+| OCT_2025 | "We believe we are at the start of multiyear expansion across investing, wealth management, protection, credit and fixed income." | Pending |
+| OCT_2025 | "Our aim is simple: to become the most trusted and performance-driven credit platform in the country and achieve a leadership position in the coming years." | Pending |
+| OCT_2025 | "at exit, we want to be at 40% to 45% OPM, and we are well on our way to that path from everything that we can see." | 40-45% OPM |
+| OCT_2025 | "Long term, we should be able to achieve 45 - 50% operating margins as we go along and grow the businesses." | Pending |
+
+Referenced chunks: ANGELONE_CONCALL_APR_2026_000, ANGELONE_CONCALL_APR_2026_001, ANGELONE_CONCALL_APR_2026_001, ANGELONE_CONCALL_APR_2026_001, ANGELONE_CONCALL_JAN_2026_000, ANGELONE_CONCALL_JAN_2026_001, ANGELONE_CONCALL_OCT_2025_000, ANGELONE_CONCALL_OCT_2025_001, ANGELONE_CONCALL_OCT_2025_003, ANGELONE_CONCALL_OCT_2025_006
+
+------------------------------------------------------------------------------------------
+RED FLAGS
+------------------------------------------------------------------------------------------
+### Operational & Regulatory Risks
+* Regulatory changes, such as F&O regulations and RBI directions relating to banks' capital market exposures; geopolitical events; market volatility; inflationary pressures; cybersecurity and cyber resilience.
+
+Referenced chunks: ANGELONE_CONCALL_APR_2026_000, ANGELONE_CONCALL_JAN_2026_002, ANGELONE_CONCALL_OCT_2025_003
+
+------------------------------------------------------------------------------------------
+SUMMARY
+------------------------------------------------------------------------------------------
+Angel One exhibits strong growth in client base, market share gains, and successful integration of AI. The company has a bullish outlook for B2B2C scaling and confidence in maintaining operating margins. However, risks such as regulatory changes, geopolitical events, and market volatility exist.
+
+==========================================================================================
+SUMMARY
+==========================================================================================
+Angel One exhibits strong growth in client base, market share gains, and successful integration of AI. The company has a bullish outlook for B2B2C scaling and confidence in maintaining operating margins. However, risks such as regulatory changes, geopolitical events, and market volatility exist.

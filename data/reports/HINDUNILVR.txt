@@ -1,0 +1,62 @@
+==========================================================================================
+EQUITY RESEARCH DOSSIER: HINDUNILVR
+Generated: 2026-07-09 10:58:59
+==========================================================================================
+
+INVESTMENT SCORE: 85/100 - Buy, driven by a diversified portfolio, strong brand presence, and stable financial performance (Revenue growth: 5-8%, EBITDA margin: 22.8-23.7%) despite moderating consumption environment and volatile input costs.
+
+------------------------------------------------------------------------------------------
+FINANCIALS
+------------------------------------------------------------------------------------------
+### Financial Trajectory
+* Q: AUG_2025 - Revenue: 5% Underlying Sales Growth, EBITDA margin: 22.8%, Capex: Rs. 2,706 crores; * Q: FEB_2026 - Revenue: 6% growth, EBITDA: Rs. 3,788 crores, EBITDA margin: 23.3%, Capex: Rs. 824 crores; * Q: MAY_2026 - Revenue: 8% Consolidated Revenue Growth, EBITDA margin: 23.7%, Capex: Rs. 2,000 crores; * Q: OCT_2025 - Revenue: 2% Underlying Sales Growth, EBITDA margin: 23.2%
+
+Referenced chunks: HINDUNILVR_CONCALL_AUG_2025_000, HINDUNILVR_CONCALL_FEB_2026_000, HINDUNILVR_CONCALL_MAY_2026_000, HINDUNILVR_CONCALL_OCT_2025_000
+
+------------------------------------------------------------------------------------------
+COMPANY MOATS
+------------------------------------------------------------------------------------------
+Hindustan Unilever's structural competitive moats include its diversified portfolio across categories, strong brand presence, and operational efficiencies.
+
+Referenced chunks: HINDUNILVR_CONCALL_AUG_2025_000, HINDUNILVR_CONCALL_FEB_2026_000
+
+------------------------------------------------------------------------------------------
+MANAGEMENT SENTIMENT
+------------------------------------------------------------------------------------------
+The tone progression across quarters remains bullish, with management addressing risks and opportunities in the consumer goods market.
+
+Referenced chunks: HINDUNILVR_CONCALL_AUG_2025_000, HINDUNILVR_CONCALL_FEB_2026_000, HINDUNILVR_CONCALL_MAY_2026_000, HINDUNILVR_CONCALL_OCT_2025_000
+
+------------------------------------------------------------------------------------------
+PROMISE MATRIX
+------------------------------------------------------------------------------------------
+| Quarter | Management Promise | Realized Outcome |
+|---|---|---|
+| AUG_2025 | "expect the first half of this financial year to be better than second half of last financial year" | Better growth in H1; *
+| AUG_2025 | "anticipate low single-digit price growth if commodity prices stay within the current range" | Low single-digit pricing; *
+| AUG_2025 | "expect EBITDA to be in the range of 22%-23%" | EBITDA margin: 22.8%; *
+| FEB_2026 | "expect growth in financial year'27 to be better than financial year'26" | Better growth in FY'27; *
+| FEB_2026 | "expect consolidated EBITDA margin to stay around the guided range" | EBITDA margin: 23.3%; *
+| MAY_2026 | "confident of fiscal year'27 to be better than fiscal year'26" | Better growth in FY'27; *
+| MAY_2026 | "expect the mid-term margin guidance to remain around our current guided range of 22.5% to 23.5%" | EBITDA margin: 23.7%; *
+| OCT_2025 | "expect growth of second half of this financial year to be better than the first half" | Better growth in H2; *
+| OCT_2025 | "If commodity prices remain where they are, we expect a low-single digit price growth" | Low single-digit pricing; *
+
+Referenced chunks: HINDUNILVR_CONCALL_AUG_2025_003, HINDUNILVR_CONCALL_AUG_2025_003, HINDUNILVR_CONCALL_AUG_2025_003, HINDUNILVR_CONCALL_FEB_2026_002, HINDUNILVR_CONCALL_FEB_2026_002, HINDUNILVR_CONCALL_MAY_2026_003, HINDUNILVR_CONCALL_MAY_2026_003, HINDUNILVR_CONCALL_OCT_2025_002, HINDUNILVR_CONCALL_OCT_2025_002
+
+------------------------------------------------------------------------------------------
+RED FLAGS
+------------------------------------------------------------------------------------------
+Operational & Regulatory Risks include moderating consumption environment (AUG_2025), intense competitive heat (AUG_2025), volatile input cost landscape (FEB_2026), escalation of the Middle East crisis (MAY_2026), and prolonged monsoon conditions (OCT_2025).
+
+Referenced chunks: HINDUNILVR_CONCALL_AUG_2025_000, HINDUNILVR_CONCALL_FEB_2026_000, HINDUNILVR_CONCALL_MAY_2026_000, HINDUNILVR_CONCALL_OCT_2025_000
+
+------------------------------------------------------------------------------------------
+SUMMARY
+------------------------------------------------------------------------------------------
+Hindustan Unilever's diversified portfolio and strong brand presence provide a stable foundation. Despite risks, the company's financial trajectory shows resilience with revenue growth and stable EBITDA margins.
+
+==========================================================================================
+SUMMARY
+==========================================================================================
+Hindustan Unilever's diversified portfolio and strong brand presence provide a stable foundation. Despite risks, the company's financial trajectory shows resilience with revenue growth and stable EBITDA margins.

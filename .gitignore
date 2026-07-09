@@ -1,0 +1,8 @@
+.env
+data/raw_data.db
+data/testing/
+__pycache__/
+*.pyc
+*.log
+runtimelogs.log*
+.venv/

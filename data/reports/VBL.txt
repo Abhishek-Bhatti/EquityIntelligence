@@ -1,0 +1,67 @@
+==========================================================================================
+EQUITY RESEARCH DOSSIER: VBL
+Generated: 2026-07-09 12:26:18
+==========================================================================================
+
+INVESTMENT SCORE: 75/100 - Buy, driven by strong revenue growth (double-digit in NOV_2025 and MAY_2026) and EBITDA margins (23.3-28.5%), but offset by risks from unseasonal rains and inflationary pressures.
+
+------------------------------------------------------------------------------------------
+FINANCIALS
+------------------------------------------------------------------------------------------
+### Financial Trajectory
+* Q: AUG_2025 - Revenue: Rs. 70,173 million (down 2.5% YoY), EBITDA margin: 28.5%, Capex: Rs. 25,000 million (H1 2025)
+* Q: FEB_2026 - Revenue: 8.4% growth, EBITDA margin: 23.3%, Capex: Rs. 45,000 million (CY 2025)
+* Q: MAY_2026 - Revenue: Double-digit growth, EBITDA margin: 23.3% (improved by 55 bps), Capex: Less than Rs. 500 - 600 crore (India)
+* Q: NOV_2025 - Revenue: Double-digit growth, EBITDA margin: 23.4%
+
+Referenced chunks: VBL_CONCALL_AUG_2025_000, VBL_CONCALL_FEB_2026_000, VBL_CONCALL_MAY_2026_000, VBL_CONCALL_NOV_2025_000
+
+------------------------------------------------------------------------------------------
+COMPANY MOATS
+------------------------------------------------------------------------------------------
+### Structural Competitive Moats
+* Strong distribution network and brand presence in India and Africa, evidenced by double-digit revenue growth in NOV_2025 and MAY_2026.
+
+Referenced chunks: VBL_CONCALL_NOV_2025_000, VBL_CONCALL_MAY_2026_000
+
+------------------------------------------------------------------------------------------
+MANAGEMENT SENTIMENT
+------------------------------------------------------------------------------------------
+### Tone Progression
+* BULLISH sentiment across all quarters with a focus on long-term domestic growth and international expansion in Africa, despite short-term weather impacts.
+
+Referenced chunks: VBL_CONCALL_AUG_2025_000, VBL_CONCALL_FEB_2026_000, VBL_CONCALL_MAY_2026_000, VBL_CONCALL_NOV_2025_000
+
+------------------------------------------------------------------------------------------
+PROMISE MATRIX
+------------------------------------------------------------------------------------------
+| Quarter | Management Promise | Realized Outcome |
+|---|---|---|
+| AUG_2025 | "With robust capacities now operational, an expanding product portfolio, and a sharply focused distribution network, we are well-positioned to capture emerging opportunities and drive sustainable, long-term value creation for all stakeholders." | Pending |
+| AUG_2025 | "We are confident that these strategic initiatives combined with operational discipline, will enable us to deliver consistent growth and create long-term value for our stakeholders." | Pending |
+| FEB_2026 | "The greenfield plants and backward integration facilities commissioned during the year are progressively stabilizing and are expected to support higher volumes and operating leverage in the upcoming season." | 8.4% revenue growth |
+| FEB_2026 | "we believe we are well positioned to deliver sustained and profitable growth and create long-term value for all stakeholders." | Pending |
+| MAY_2026 | "The facilities commissioned over the last year have stabilized well and are expected to support growth and enhance operating efficiencies going forward." | Double-digit growth |
+| MAY_2026 | "we believe the growth should continue in double-digits for the next 5-10 years at least." | Pending |
+| NOV_2025 | "we remain confident in the significant long-term potential of the domestic beverage industry." | Double-digit growth |
+| NOV_2025 | "By passing on the full benefit of the rate reduction to consumers, we expect to drive category expansion and support sustained demand growth over time." | Pending |
+
+Referenced chunks: VBL_CONCALL_AUG_2025_000, VBL_CONCALL_FEB_2026_000, VBL_CONCALL_MAY_2026_000, VBL_CONCALL_NOV_2025_000
+
+------------------------------------------------------------------------------------------
+RED FLAGS
+------------------------------------------------------------------------------------------
+### Operational & Regulatory Risks
+* Unseasonal rains impacting performance (AUG_2025, FEB_2026), inflationary input environment (MAY_2026), and sugar tax in Zimbabwe (NOV_2025, FEB_2026).
+
+Referenced chunks: VBL_CONCALL_AUG_2025_000, VBL_CONCALL_FEB_2026_000, VBL_CONCALL_MAY_2026_000, VBL_CONCALL_NOV_2025_000
+
+------------------------------------------------------------------------------------------
+SUMMARY
+------------------------------------------------------------------------------------------
+VBL's financial performance has been impacted by unseasonal rains and inflationary pressures, but the company has shown resilience with double-digit revenue growth in NOV_2025 and MAY_2026. The management remains bullish on the company's long-term prospects, driven by a strong distribution network and brand presence in India and Africa.
+
+==========================================================================================
+SUMMARY
+==========================================================================================
+VBL's financial performance has been impacted by unseasonal rains and inflationary pressures, but the company has shown resilience with double-digit revenue growth in NOV_2025 and MAY_2026. The management remains bullish on the company's long-term prospects, driven by a strong distribution network and brand presence in India and Africa.

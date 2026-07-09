@@ -1,0 +1,61 @@
+==========================================================================================
+EQUITY RESEARCH DOSSIER: KIRLOSENG
+Generated: 2026-07-08 13:04:14
+==========================================================================================
+
+INVESTMENT SCORE: 87/100 - Buy, driven by strong growth prospects, dominant market position, and improving margins, but tempered by execution risks and market fluctuations.
+
+------------------------------------------------------------------------------------------
+FINANCIALS
+------------------------------------------------------------------------------------------
+### Financial Trajectory
+* Q: [details]
+* Q4 2025: Revenue growth driven by 12% Y-o-Y revenue growth in Distribution and Aftermarket Business, 13% Y-o-Y revenue growth in International Business, and 2% growth in B2C segment. EBITDA margin improved to 10.5% as on 31st March, 2025 compared to 9.7% as on 31st March, 2024. Capex includes investment in energy conservation equipment and R&D.
+
+Referenced chunks: CHUNK_ID_1, KIRLOSENG_AR_2025_005
+
+------------------------------------------------------------------------------------------
+COMPANY MOATS
+------------------------------------------------------------------------------------------
+### Structural Competitive Moats
+* Kirloskar's dominant position in the Indian genset market with a strong brand reputation and extensive distribution network.
+
+Referenced chunks: AUG_2024, NOV_2025
+
+------------------------------------------------------------------------------------------
+MANAGEMENT SENTIMENT
+------------------------------------------------------------------------------------------
+### Tone Progression
+* Management sentiment progressed from bullish in AUG_2024 to cautious in FEB_2025, before turning bullish again in NOV_2025 and FEB_2026. Recent sentiment remains bullish with a focus on growth and sustainability.
+
+Referenced chunks: AUG_2024, FEB_2025, NOV_2025, FEB_2026, KIRLOSENG_AR_2025_005
+
+------------------------------------------------------------------------------------------
+PROMISE MATRIX
+------------------------------------------------------------------------------------------
+| Quarter | Management Promise | Realized Outcome |
+|---|---|---|
+| PERIOD | verbatim promise from raw_management_quotes | outcome if observable, else Pending |
+| Q4 2025 | Three (3) new families of the R550 series are in process of Tier 4 Final certification from US EPA and California Air Resources Board (CARB) and this is expected to be completed in Financial Year 2025-26. | Pending |
+| Q4 2025 | Product development and availability will allow Engines LPG, LLC dba Wildcat Power Gen to course correct with increased levels of sales in the coming quarters. | Pending |
+| Q4 2025 | KOEL aspires to become a USD 2 billion Company in the next 5 years at a consolidated level | Pending |
+
+Referenced chunks: CHUNK_ID_1, KIRLOSENG_AR_2025_005, KIRLOSENG_AR_2025_013
+
+------------------------------------------------------------------------------------------
+RED FLAGS
+------------------------------------------------------------------------------------------
+### Operational & Regulatory Risks
+* Execution risk in terms of IP development delays and agri cyclicality (AUG_2025), commodity price pressure and product mix (FEB_2026), and potential fuel price hikes (MAY_2026). Additional risks include marketing environment volatility in South and Central America, new tariffs in USA, and challenges in meeting CPCB IV+ norms.
+
+Referenced chunks: AUG_2025, FEB_2026, MAY_2026, KIRLOSENG_AR_2025_005
+
+------------------------------------------------------------------------------------------
+SUMMARY
+------------------------------------------------------------------------------------------
+Kirloskar's strong financial performance, driven by record sales and EBITDA margins, is expected to continue with a focus on high horsepower, international markets, and aftermarket growth. However, risks such as execution delays, commodity price pressure, and market fluctuations need to be monitored. The company aspires to become a USD 2 billion Company in the next 5 years at a consolidated level.
+
+==========================================================================================
+SUMMARY
+==========================================================================================
+Kirloskar's strong financial performance, driven by record sales and EBITDA margins, is expected to continue with a focus on high horsepower, international markets, and aftermarket growth. However, risks such as execution delays, commodity price pressure, and market fluctuations need to be monitored. The company aspires to become a USD 2 billion Company in the next 5 years at a consolidated level.

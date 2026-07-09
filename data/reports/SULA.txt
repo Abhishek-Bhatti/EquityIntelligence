@@ -1,0 +1,63 @@
+==========================================================================================
+EQUITY RESEARCH DOSSIER: SULA
+Generated: 2026-07-08 14:06:01
+==========================================================================================
+
+INVESTMENT SCORE: 75/100 - Buy, driven by a strong brand, growing Wine Tourism segment (34% year-on-year growth), and improving EBITDA margins (200 basis points improvement in MAY_2026). However, risks from EU FTA import duty reductions and temporary route-to-market disruptions in Telangana (NOV_2025) need monitoring.
+
+------------------------------------------------------------------------------------------
+FINANCIALS
+------------------------------------------------------------------------------------------
+### Financial Trajectory
+* Q: NOV_2025 - Revenue remained fairly flat at INR 140 crores; EBITDA margin declined by 530 basis points year-over-year; Capex for The Haven by Sula was launched with 30 keys, with Phase 2 adding another 20 keys.
+* Q: FEB_2026 - Revenue showed Maharashtra: consistent single-digit growth; Telangana: expect good growth in Q4 and FY '27; CSD: sales up nearly 40% year-on-year; Wine Tourism: robust year-on-year growth of 34%. EBITDA declined to INR32 crores from INR53 crores. Capex for The Haven increased total room capacity by nearly 50% to 154 keys.
+* Q: MAY_2026 - Revenue up 7% year-on-year in Q4; Own brands grew 5% year-on-year; EBITDA margins improved by approximately 200 basis points. Capex for FY '26 stood at approximately INR 25 crores, with plans to scale up production and expand Wine Tourism.
+
+Referenced chunks: SULA_CONCALL_NOV_2025_000, SULA_CONCALL_FEB_2026_000, SULA_CONCALL_MAY_2026_000
+
+------------------------------------------------------------------------------------------
+COMPANY MOATS
+------------------------------------------------------------------------------------------
+### Structural Competitive Moats
+* Strong brand presence and Wine Tourism segment with a robust year-on-year growth of 34% as mentioned in FEB_2026 and MAY_2026, providing a unique selling proposition.
+
+Referenced chunks: SULA_CONCALL_FEB_2026_002, SULA_CONCALL_MAY_2026_002
+
+------------------------------------------------------------------------------------------
+MANAGEMENT SENTIMENT
+------------------------------------------------------------------------------------------
+### Tone Progression
+* BULLISH sentiment across quarters with a focus on growth in Wine Tourism, optimism for FY '27, and successful cost reduction initiatives.
+
+Referenced chunks: SULA_CONCALL_FEB_2026_000, SULA_CONCALL_MAY_2026_000
+
+------------------------------------------------------------------------------------------
+PROMISE MATRIX
+------------------------------------------------------------------------------------------
+| Quarter | Management Promise | Realized Outcome |
+|---|---|---|
+| NOV_2025 | "Sula is well-positioned to deliver improved operating performance in the second half of FY '26" | Pending |
+| FEB_2026 | "we expect Own Brands to return to growth over the next couple of quarters" | Pending |
+| FEB_2026 | "we expect that over the next 2 years, a lion's share of our total capex will be allocated to Wine Tourism" | Pending |
+| MAY_2026 | "we hope for a positive growth trajectory going ahead" | Pending |
+| MAY_2026 | "I would not be surprised if we close this year up another 200 or 300 basis points that is in FY '27 over FY '26" | Pending |
+
+Referenced chunks: SULA_CONCALL_NOV_2025_001, SULA_CONCALL_FEB_2026_002, SULA_CONCALL_FEB_2026_001, SULA_CONCALL_MAY_2026_002, SULA_CONCALL_MAY_2026_004
+
+------------------------------------------------------------------------------------------
+RED FLAGS
+------------------------------------------------------------------------------------------
+### Operational & Regulatory Risks
+* Temporary route-to-market disruptions in Telangana due to retail license expiry (NOV_2025), subdued demand in Karnataka (FEB_2026), and potential impact of EU FTA import duty reductions on domestic wine prices.
+
+Referenced chunks: SULA_CONCALL_NOV_2025_001, SULA_CONCALL_FEB_2026_000
+
+------------------------------------------------------------------------------------------
+SUMMARY
+------------------------------------------------------------------------------------------
+Sula's investment thesis centers around its strong brand presence, growing Wine Tourism segment, and strategic focus on expanding revenue mix. However, temporary disruptions and regulatory risks exist.
+
+==========================================================================================
+SUMMARY
+==========================================================================================
+Sula's investment thesis centers around its strong brand presence, growing Wine Tourism segment, and strategic focus on expanding revenue mix. However, temporary disruptions and regulatory risks exist.

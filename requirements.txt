@@ -1,0 +1,11 @@
+groq
+openai
+httpx
+aiosqlite
+pydantic
+pymupdf
+pytesseract
+Pillow
+python-docx
+beautifulsoup4
+gradio
