@@ -24,19 +24,23 @@ def _clean_markdown_field(text: str) -> str:
     return text.replace("\n", "\n\n") if text else text
 
 def build_report_markdown(report: dict) -> str:
+    summary = _clean_markdown_field(report.get('summary_text', ''))
+    financials = _clean_markdown_field(report.get('financials_and_notes_analysis', ''))
+    moats = _clean_markdown_field(report.get('company_moats', ''))
+    red_flags = _clean_markdown_field(report.get('red_flags', ''))
+    promise = report.get('promise_evaluator_matrix', '')
+    sentiment = _clean_markdown_field(report.get('management_sentiment_synthesis', ''))
     return (
         f"# {report['ticker']} — {report['score']}\n\n"
         f"*Generated: {report['generated_at']}*\n\n"
         f"---\n\n"
-        f"## 📋 Summary\n\n{_clean_markdown_field(report.get('summary_text', '')
-        )}\n\n"
-        f"## 📝 Financials\n\n{_clean_markdown_field(report.get('financials_and_notes_analysis', ''))}\n\n"
-        f"## 🛡 Moats\n\n{_clean_markdown_field(report.get('company_moats', ''))}\n\n"
-        f"## 🚨 Red Flags\n\n{_clean_markdown_field(report.get('red_flags', ''))}\n\n"
-        f"## 🔮 Promise Matrix\n\n{report.get('promise_evaluator_matrix', '')}\n\n"
-        f"## 🤝 Sentiment\n\n{_clean_markdown_field(report.get('management_sentiment_synthesis', ''))}\n\n"
+        f"## 📋 Summary\n\n{summary}\n\n"
+        f"## 📝 Financials\n\n{financials}\n\n"
+        f"## 🛡 Moats\n\n{moats}\n\n"
+        f"## 🚨 Red Flags\n\n{red_flags}\n\n"
+        f"## 🔮 Promise Matrix\n\n{promise}\n\n"
+        f"## 🤝 Sentiment\n\n{sentiment}\n\n"
     )
-
 
 def show_report(ticker_choice: str) -> str:
     reports = fetch_all_reports()
@@ -117,15 +121,6 @@ async def _fetch_all_reports() -> list[dict]:
 
 def fetch_all_reports():
     return asyncio.run(_fetch_all_reports())
-
-
-def show_report(ticker_choice: str) -> str:
-    reports = fetch_all_reports()
-    for r in reports:
-        if r["ticker"] == ticker_choice:
-            return build_report_markdown(r)
-    return "<p>Report not found.</p>"
-
 
 def get_ticker_choices() -> list[str]:
     reports = fetch_all_reports()
