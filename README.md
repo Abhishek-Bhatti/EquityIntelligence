@@ -15,6 +15,7 @@ An LLM-powered equity research pipeline for publicly-listed Indian companies. Gi
 ```
 python main.py TICKER
 ```
+NOTE: The results from this program are not to be considered financial advice.
 
 ---
 
