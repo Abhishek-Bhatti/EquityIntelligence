@@ -28,7 +28,7 @@ class ScraperPipeline:
 
     # ToC vision targeting config
     AR_TOC_TARGETING_ENABLED = True
-    AR_PAGE_HIT_BUFFER = 20
+    AR_PAGE_HIT_BUFFER = 15
     TOC_SCAN_PAGE_LIMIT = 25
     ANCHOR_SCAN_PAGE_LIMIT = 60
     ANCHOR_MIN_SUPPORT = 3
