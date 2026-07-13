@@ -1,3 +1,5 @@
+gradio==3.50.2
+huggingface_hub==0.20.3
 groq
 openai
 httpx
@@ -8,4 +10,3 @@ pytesseract
 Pillow
 python-docx
 beautifulsoup4
-gradio
