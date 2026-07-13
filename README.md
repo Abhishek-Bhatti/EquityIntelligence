@@ -1,13 +1,3 @@
----
-title: EquityIntelligence
-emoji: 📊
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
----
 # EquityIntelligence  
 
 An LLM-powered equity research pipeline for publicly-listed Indian companies. Given a stock ticker, it scrapes the latest concall transcripts and annual report from [Screener.in](https://www.screener.in/), extracts structured financial data through a map-reduce LLM pipeline, and synthesizes a full equity research report - financial trajectory, management sentiment, competitive moats, red flags, a promise-vs-outcome matrix, and an investment score.
