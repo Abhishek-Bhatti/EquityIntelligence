@@ -7,8 +7,6 @@ import gradio as gr
 
 # ... the rest of your code ...
 
-demo.launch(server_name="0.0.0.0", server_port=7860)
-
 import gradio as gr
 import json
 import asyncio
