@@ -46,21 +46,15 @@ def show_report(ticker_choice: str) -> str:
     return "*Report not found.*"
 
 def _configure_git_remote() -> bool:
-    """
-    Rewrites the origin remote to embed the HF token so git push
-    authenticates without an interactive prompt. Called once per push.
-    Returns True if configuration succeeded.
-    """
     if not HF_TOKEN or not HF_REPO:
         return False
     authed_url = f"https://alphaquant-bot:{HF_TOKEN}@huggingface.co/spaces/{HF_REPO}"
     result = subprocess.run(
-        ["git", "remote", "set-url", "origin", authed_url],
+        ["git", "remote", "set-url", "hf", authed_url],
         capture_output=True, text=True,
         cwd=os.path.dirname(__file__)
     )
     return result.returncode == 0
-
 
 def _push_db_to_repo(ticker: str) -> tuple[bool, str]:
     """
@@ -79,7 +73,7 @@ def _push_db_to_repo(ticker: str) -> tuple[bool, str]:
         (["git", "add", ".gitattributes", DB_PATH], "git add"),
         (["git", "commit", "--allow-empty", "-m",
           f"chore: persist DB after processing {ticker}"], "git commit"),
-        (["git", "push", "origin", "main"], "git push"),
+        (["git", "push", "hf", "main"], "git push"),
     ]
 
     for cmd, label in steps:
