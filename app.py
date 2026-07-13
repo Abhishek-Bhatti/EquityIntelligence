@@ -18,6 +18,33 @@ DB_PATH = os.path.join(os.path.dirname(__file__), "data", "raw_data.db")
 # Git LFS push helper
 # ----------------------------------------------------------------
 
+def _clean_markdown_field(text: str) -> str:
+    """Ensures markdown block elements (headers, bullets) get real paragraph
+    breaks — a single \\n is sometimes swallowed as a soft break by renderers."""
+    return text.replace("\n", "\n\n") if text else text
+
+def build_report_markdown(report: dict) -> str:
+    return (
+        f"# {report['ticker']} — {report['score']}\n\n"
+        f"*Generated: {report['generated_at']}*\n\n"
+        f"---\n\n"
+        f"## 📋 Summary\n\n{_clean_markdown_field(report.get('summary_text', '')
+        )}\n\n"
+        f"## 📝 Financials\n\n{_clean_markdown_field(report.get('financials_and_notes_analysis', ''))}\n\n"
+        f"## 🛡 Moats\n\n{_clean_markdown_field(report.get('company_moats', ''))}\n\n"
+        f"## 🚨 Red Flags\n\n{_clean_markdown_field(report.get('red_flags', ''))}\n\n"
+        f"## 🔮 Promise Matrix\n\n{report.get('promise_evaluator_matrix', '')}\n\n"
+        f"## 🤝 Sentiment\n\n{_clean_markdown_field(report.get('management_sentiment_synthesis', ''))}\n\n"
+    )
+
+
+def show_report(ticker_choice: str) -> str:
+    reports = fetch_all_reports()
+    for r in reports:
+        if r["ticker"] == ticker_choice:
+            return build_report_markdown(r)
+    return "*Report not found.*"
+
 def _configure_git_remote() -> bool:
     """
     Rewrites the origin remote to embed the HF token so git push
@@ -98,26 +125,11 @@ def fetch_all_reports():
     return asyncio.run(_fetch_all_reports())
 
 
-def build_report_html(report: dict) -> str:
-    return f"""
-    <div style="font-family: sans-serif; max-width: 900px; margin: auto;">
-        <h1>{report['ticker']} — {report['score']}</h1>
-        <p style="color: grey;">Generated: {report['generated_at']}</p>
-        <h2>📋 Summary</h2><p>{report.get('summary_text', '')}</p>
-        <h2>📝 Financials</h2><p>{report.get('financials_and_notes_analysis', '')}</p>
-        <h2>🛡 Moats</h2><p>{report.get('company_moats', '')}</p>
-        <h2>🚨 Red Flags</h2><p>{report.get('red_flags', '')}</p>
-        <h2>🔮 Promise Matrix</h2><p>{report.get('promise_evaluator_matrix', '')}</p>
-        <h2>🤝 Sentiment</h2><p>{report.get('management_sentiment_synthesis', '')}</p>
-    </div>
-    """
-
-
 def show_report(ticker_choice: str) -> str:
     reports = fetch_all_reports()
     for r in reports:
         if r["ticker"] == ticker_choice:
-            return build_report_html(r)
+            return build_report_markdown(r)
     return "<p>Report not found.</p>"
 
 
@@ -208,7 +220,7 @@ with gr.Blocks(title="AlphaQuant — Indian Equity Research") as demo:
             interactive=True
         )
         view_btn = gr.Button("Load Report")
-        report_display = gr.HTML()
+        report_display = gr.Markdown()
         view_btn.click(
             fn=show_report,
             inputs=ticker_dropdown,
