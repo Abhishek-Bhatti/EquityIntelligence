@@ -1,3 +1,14 @@
+import os
+# Force proxy bypass for local addresses
+os.environ["NO_PROXY"] = "localhost,127.0.0.1,0.0.0.0,::1"
+os.environ["no_proxy"] = "localhost,127.0.0.1,0.0.0.0,::1"
+
+import gradio as gr
+
+# ... the rest of your code ...
+
+demo.launch(server_name="0.0.0.0", server_port=7860)
+
 import gradio as gr
 import json
 import asyncio
