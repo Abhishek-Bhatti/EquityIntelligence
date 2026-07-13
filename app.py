@@ -236,4 +236,4 @@ with gr.Blocks(title="AlphaQuant — Indian Equity Research") as demo:
             outputs=log_output
         )
 
-demo.launch()
+demo.launch(server_name="0.0.0.0", server_port=7860)
