@@ -5,3 +5,4 @@ __pycache__/
 runtimelogs.log*
 .venv/data/testing/
 data/testing/
+data/testing/
