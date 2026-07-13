@@ -4,3 +4,4 @@ __pycache__/
 *.log
 runtimelogs.log*
 .venv/data/testing/
+data/testing/
